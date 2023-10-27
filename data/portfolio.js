@@ -1,7 +1,7 @@
 const about = {
   // all the properties are optional - can be left empty or deleted
   // each element in the description array is a paragraph
-  name: 'John Doe',
+  name: 'Abdullah Malik',
   role: 'Software Engineer',
   company: 'Acme Labs',
   description: [
